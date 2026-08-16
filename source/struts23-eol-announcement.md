@@ -42,4 +42,4 @@ internal changes to improve overall framework's security.
 
 *   **I'm using Apache Struts 2.5.x, what will happen with this version?**
 
-    Struts 2.5.x is still actively supported, we are working on new versions as well as we are preparing a new Struts 2.6 version. Migration from Struts 2.5.x to Struts 2.6 will a way smoother than switching from Struts 2.3.x to Struts 2.5.x.
+    Struts 2.5.x is still actively supported, we are working on new versions as well as we are preparing a new Struts 2.6 version. Migration from Struts 2.5.x to Struts 2.6 will a 
